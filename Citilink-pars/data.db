@@ -1,0 +1,7 @@
+CREATE TABLE Products (
+    id   INTEGER  UNIQUE
+                  NOT NULL,
+    name TEXT,
+    cost INTEGER,
+    date DATETIME
+);
