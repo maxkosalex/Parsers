@@ -5,4 +5,5 @@ The parser can save the following data: Name, cost, date of data collection, lin
 All data is stored in a local database
 
 At the moment, the following parsers are available:
+
 •Citilink-pars
